@@ -34,6 +34,7 @@ gem 'ZenTest'
 
 group :development do
       gem 'rspec-rails', '2.6.0'
+      gem 'annotate-models', '1.0.4'
 end
 
 group :test do
